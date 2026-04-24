@@ -1,0 +1,28 @@
+{
+  "id": "unit-3-1",
+  "title": "Unit 3.1: Managing Stress, Anger and People",
+  "description": "Study Notes & Practice Material",
+  "source": "@site/docs/unit-3-1.md",
+  "sourceDirName": ".",
+  "slug": "/unit-3-1",
+  "permalink": "/docs/unit-3-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unit-3-1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Unit 3.1: Managing Stress, Anger and People",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unit 2.1: Contributions of World Leaders",
+    "permalink": "/docs/unit-2-1"
+  },
+  "next": {
+    "title": "Unit 4.1: Self Discipline",
+    "permalink": "/docs/unit-4-1"
+  }
+}
