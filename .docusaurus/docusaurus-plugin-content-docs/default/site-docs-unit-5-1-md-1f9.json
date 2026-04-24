@@ -1,0 +1,28 @@
+{
+  "id": "unit-5-1",
+  "title": "Unit 5.1: Character Building",
+  "description": "Study Notes & Practice Material",
+  "source": "@site/docs/unit-5-1.md",
+  "sourceDirName": ".",
+  "slug": "/unit-5-1",
+  "permalink": "/docs/unit-5-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unit-5-1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Unit 5.1: Character Building",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unit 4.1: Self Discipline",
+    "permalink": "/docs/unit-4-1"
+  },
+  "next": {
+    "title": "Unit 6.1: Civic Responsibilities",
+    "permalink": "/docs/unit-6-1"
+  }
+}
