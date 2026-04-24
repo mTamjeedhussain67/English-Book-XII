@@ -1,0 +1,313 @@
+/**
+ * Global CSS for English Notes For Class XII
+ * Modern premium design with Inter font, glassmorphism, and smooth animations.
+ */
+
+/* ─── Google Fonts ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@700;800&display=swap');
+
+/* ─── Design Tokens (Light Mode) ───────────────────────────── */
+:root {
+  /* Brand colors — indigo/violet */
+  --ifm-color-primary: #6366f1;
+  --ifm-color-primary-dark: #4f46e5;
+  --ifm-color-primary-darker: #4338ca;
+  --ifm-color-primary-darkest: #312e81;
+  --ifm-color-primary-light: #818cf8;
+  --ifm-color-primary-lighter: #a5b4fc;
+  --ifm-color-primary-lightest: #c7d2fe;
+
+  /* Custom brand variables */
+  --brand-gradient: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  --brand-gradient-subtle: linear-gradient(135deg, #eef2ff 0%, #ede9fe 100%);
+  --hero-gradient: linear-gradient(135deg, #1e1b4b 0%, #312e81 40%, #4c1d95 100%);
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(99, 102, 241, 0.15);
+  --card-shadow: 0 4px 24px rgba(99, 102, 241, 0.10);
+  --card-shadow-hover: 0 12px 40px rgba(99, 102, 241, 0.22);
+  --card-bg: #ffffff;
+  --card-radius: 16px;
+  --section-bg: #f8f9ff;
+
+  /* Typography */
+  --ifm-font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ifm-heading-font-family: 'Inter', sans-serif;
+  --ifm-font-size-base: 16px;
+  --ifm-line-height-base: 1.75;
+
+  /* Spacing & Layout */
+  --ifm-navbar-height: 64px;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(99, 102, 241, 0.08);
+}
+
+/* ─── Design Tokens (Dark Mode) ────────────────────────────── */
+[data-theme='dark'] {
+  --ifm-color-primary: #818cf8;
+  --ifm-color-primary-dark: #6366f1;
+  --ifm-color-primary-darker: #4f46e5;
+  --ifm-color-primary-darkest: #4338ca;
+  --ifm-color-primary-light: #a5b4fc;
+  --ifm-color-primary-lighter: #c7d2fe;
+  --ifm-color-primary-lightest: #e0e7ff;
+
+  --brand-gradient-subtle: linear-gradient(135deg, #1e1b4b 0%, #2e1065 100%);
+  --glass-bg: rgba(15, 23, 42, 0.75);
+  --glass-border: rgba(129, 140, 248, 0.2);
+  --card-shadow: 0 4px 24px rgba(0, 0, 0, 0.35);
+  --card-shadow-hover: 0 12px 40px rgba(99, 102, 241, 0.30);
+  --card-bg: #1e293b;
+  --section-bg: #0f172a;
+
+  --ifm-background-color: #0f172a;
+  --ifm-background-surface-color: #1e293b;
+  --docusaurus-highlighted-code-line-bg: rgba(99, 102, 241, 0.15);
+}
+
+/* ─── Base Resets & Typography ──────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--ifm-font-family-base);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-font-family-base);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* ─── Navbar ────────────────────────────────────────────────── */
+.navbar {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--glass-border);
+  box-shadow: 0 1px 20px rgba(99, 102, 241, 0.08);
+  height: var(--ifm-navbar-height);
+  padding: 0 1.5rem;
+}
+
+[data-theme='dark'] .navbar {
+  background: rgba(15, 23, 42, 0.85);
+}
+
+.navbar__title {
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+  background: var(--brand-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.navbar__logo {
+  height: 32px;
+  transition: transform 0.3s ease;
+}
+
+.navbar__logo:hover {
+  transform: scale(1.08) rotate(-3deg);
+}
+
+.navbar__link {
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.2s ease;
+}
+
+.navbar__link--active,
+.navbar__link:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* ─── Sidebar ───────────────────────────────────────────────── */
+.menu__link {
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 0.875rem;
+  transition: all 0.2s ease;
+  padding: 0.35rem 0.75rem;
+}
+
+.menu__link:hover {
+  background: var(--brand-gradient-subtle);
+  color: var(--ifm-color-primary);
+  transform: translateX(4px);
+}
+
+.menu__link--active {
+  background: var(--brand-gradient-subtle);
+  color: var(--ifm-color-primary) !important;
+  font-weight: 600;
+  border-left: 3px solid var(--ifm-color-primary);
+}
+
+/* ─── Buttons ───────────────────────────────────────────────── */
+.button {
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.25s ease;
+  letter-spacing: 0.01em;
+}
+
+.button--primary {
+  background: var(--brand-gradient);
+  border: none;
+  color: #fff;
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.35);
+}
+
+.button--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(99, 102, 241, 0.45);
+  color: #fff;
+}
+
+.button--secondary {
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  backdrop-filter: blur(8px);
+}
+
+.button--secondary:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.8);
+  transform: translateY(-2px);
+  color: #fff;
+}
+
+/* ─── Admonitions (Info/Tip/Warning/Danger) ─────────────────── */
+.admonition {
+  border-radius: 12px;
+  border-left-width: 4px;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.admonition-heading {
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.admonition.admonition-info {
+  background: linear-gradient(135deg, #eff6ff, #dbeafe);
+  border-color: #3b82f6;
+}
+
+.admonition.admonition-tip {
+  background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+  border-color: #22c55e;
+}
+
+.admonition.admonition-warning {
+  background: linear-gradient(135deg, #fffbeb, #fef3c7);
+  border-color: #f59e0b;
+}
+
+.admonition.admonition-danger {
+  background: linear-gradient(135deg, #fff1f2, #ffe4e6);
+  border-color: #ef4444;
+}
+
+[data-theme='dark'] .admonition.admonition-info {
+  background: rgba(59, 130, 246, 0.1);
+}
+[data-theme='dark'] .admonition.admonition-tip {
+  background: rgba(34, 197, 94, 0.1);
+}
+[data-theme='dark'] .admonition.admonition-warning {
+  background: rgba(245, 158, 11, 0.1);
+}
+[data-theme='dark'] .admonition.admonition-danger {
+  background: rgba(239, 68, 68, 0.1);
+}
+
+/* ─── Doc Page Content ──────────────────────────────────────── */
+.markdown {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.markdown h2 {
+  border-bottom: 2px solid var(--glass-border);
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+}
+
+.markdown blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  background: var(--brand-gradient-subtle);
+  border-radius: 0 8px 8px 0;
+  padding: 0.75rem 1.25rem;
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* ─── Footer ────────────────────────────────────────────────── */
+.footer {
+  position: relative;
+  padding-top: 3rem;
+}
+
+.footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--brand-gradient);
+}
+
+.footer__title {
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ifm-color-primary-lighter);
+}
+
+.footer__link-item {
+  transition: color 0.2s ease;
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary-lighter);
+}
+
+/* ─── Scrollbar ─────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ifm-color-primary-lighter);
+  border-radius: 6px;
+}
+
+/* ─── Cards / Table of Contents ────────────────────────────── */
+.table-of-contents__link {
+  font-size: 0.85rem;
+  transition: color 0.2s ease;
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
