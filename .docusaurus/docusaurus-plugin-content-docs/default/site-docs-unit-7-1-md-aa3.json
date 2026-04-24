@@ -1,0 +1,28 @@
+{
+  "id": "unit-7-1",
+  "title": "Unit 7.1: Effects of Climate Change on Society",
+  "description": "Study Notes & Practice Material",
+  "source": "@site/docs/unit-7-1.md",
+  "sourceDirName": ".",
+  "slug": "/unit-7-1",
+  "permalink": "/docs/unit-7-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unit-7-1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Unit 7.1: Effects of Climate Change on Society",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unit 6.1: Civic Responsibilities",
+    "permalink": "/docs/unit-6-1"
+  },
+  "next": {
+    "title": "Section B: Poetry",
+    "permalink": "/docs/section-b"
+  }
+}
