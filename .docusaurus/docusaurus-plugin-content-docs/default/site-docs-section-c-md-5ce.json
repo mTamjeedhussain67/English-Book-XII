@@ -1,0 +1,24 @@
+{
+  "id": "section-c",
+  "title": "Section C: Novel",
+  "description": "Premium Study Notes & Practice Material",
+  "source": "@site/docs/section-c.md",
+  "sourceDirName": ".",
+  "slug": "/section-c",
+  "permalink": "/docs/section-c",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/section-c.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Section C: Novel",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Section B: Poetry",
+    "permalink": "/docs/section-b"
+  }
+}
