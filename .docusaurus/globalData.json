@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "unit-1-1",
+          "docs": [
+            {
+              "id": "section-b",
+              "path": "/docs/section-b",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "section-c",
+              "path": "/docs/section-c",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unit-1-1",
+              "path": "/docs/unit-1-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unit-2-1",
+              "path": "/docs/unit-2-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unit-3-1",
+              "path": "/docs/unit-3-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unit-4-1",
+              "path": "/docs/unit-4-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unit-5-1",
+              "path": "/docs/unit-5-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unit-6-1",
+              "path": "/docs/unit-6-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unit-7-1",
+              "path": "/docs/unit-7-1",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/unit-1-1",
+                "label": "unit-1-1"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
