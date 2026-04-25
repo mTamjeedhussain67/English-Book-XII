@@ -75,7 +75,7 @@ const units = [
 const stats = [
   { number: '9', label: 'Study Units' },
 
-  { number: '100', label: 'MCQs Included' },
+  { number: '450+', label: 'MCQs Included' },
   { number: 'Sami Ul Huda', label: 'Prepared By' },
   { number: 'Zee Collegiate', label: 'Coaching' },
 ];
