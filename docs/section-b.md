@@ -3,7 +3,7 @@ title: "Section B: Poetry"
 sidebar_position: 8
 ---
 
-# 📚 SECTION B: POETRY
+#  SECTION B: POETRY
 
 **Premium Study Notes & Practice Material**  
 **Based on Selected Poems**  
@@ -11,7 +11,7 @@ sidebar_position: 8
 
 ---
 
-## 📖 UNIT OVERVIEW
+##  UNIT OVERVIEW
 
 ### Poems Included
 | Poem | Author | Central Theme |
@@ -26,16 +26,16 @@ sidebar_position: 8
 
 ---
 
-## 📜 POEM-BY-POEM STUDY NOTES
+##  POEM-BY-POEM STUDY NOTES
 
 ---
 
-### 1️⃣ "IF—" BY RUDYARD KIPLING
+### 1⃣ "IF—" BY RUDYARD KIPLING
 
-#### 📝 Summary
+####  Summary
 A father's advice to his son on developing character and resilience. The poem outlines qualities needed to navigate life's challenges: keeping calm under pressure, trusting oneself while respecting others' doubts, waiting patiently, handling triumph and disaster equally, rebuilding after loss, and maintaining virtue among all people. The final stanza promises that mastering these qualities leads to true manhood and mastery of life.
 
-#### 🔑 Key Themes
+####  Key Themes
 | Theme | Explanation with Text Evidence |
 | :--- | :--- |
 | **Resilience** | "If you can force your heart and nerve and sinew / To serve your turn long after they are gone" |
@@ -44,7 +44,7 @@ A father's advice to his son on developing character and resilience. The poem ou
 | **Moral Integrity** | "If you can talk with crowds and keep your virtue, / Or walk with Kings—nor lose the common touch" |
 | **Perseverance** | "To strive, to seek, to find, and not to yield" |
 
-#### ✍️ Literary Devices
+####  Literary Devices
 | Device | Example | Effect |
 | :--- | :--- | :--- |
 | **Anaphora** | Repetition of "If you can..." | Creates rhythmic structure; emphasizes cumulative wisdom |
@@ -53,7 +53,7 @@ A father's advice to his son on developing character and resilience. The poem ou
 | **Parallelism** | "If you can dream—and not make dreams your master; / If you can think—and not make thoughts your aim" | Reinforces balanced thinking |
 | **Imagery** | "sixty seconds' worth of distance run" | Visualizes making every moment count |
 
-#### ❓ Comprehension Q&A
+####  Comprehension Q&A
 - **Q1: How does Kipling suggest one should deal with both success and failure?**
   - **A:** Kipling advises treating "Triumph and Disaster" as "impostors"—meaning both are temporary and deceptive. One should not be overly proud in success nor crushed in failure, but maintain steady character regardless of external outcomes.
 - **Q2: Why does the poet consider "Triumph and Disaster" as "impostors"?**
@@ -65,57 +65,57 @@ A father's advice to his son on developing character and resilience. The poem ou
 - **Q5: Why does the poet emphasize patience, truthfulness, and self-discipline?**
   - **A:** These qualities form the foundation of moral strength. Patience prevents rash decisions; truthfulness builds trust; self-discipline enables long-term goals. Together, they prepare one to handle life's complexities with wisdom.
 
-#### 🎯 MCQs
+####  MCQs
 1. **Which quality does the poet suggest is most important for dealing with adversity?**
    - A) Intelligence
    - B) Strength
    - C) Patience
    - D) Resilience
-   - **✅ Answer: D**
+   - ** Answer: D**
 2. **What does Kipling mean by "treat those two impostors just the same"?**
    - A) Both are equally significant
    - B) Both are temporary and deceptive
    - C) Both lead to success
    - D) Both are to be proud of
-   - **✅ Answer: B**
+   - ** Answer: B**
 3. **What is suggested by "risk it on one turn of pitch-and-toss"?**
    - A) Recklessness leads to ruin
    - B) Life involves taking calculated risks
    - C) Risks should be avoided
    - D) Winning is essential to happiness
-   - **✅ Answer: B**
+   - ** Answer: B**
 4. **The "heart and nerve and sinew" most likely implies:**
    - A) Emotional fragility
    - B) Physical strength alone
    - C) Conscious endurance of will
    - D) The body's natural limitations
-   - **✅ Answer: C**
+   - ** Answer: C**
 5. **The poem's message about self-control applies to personal growth because it:**
    - A) Limits personal freedom
    - B) Suggests emotional responses are weakness
    - C) Encourages steady improvement
    - D) Discourages seeking advice
-   - **✅ Answer: C**
+   - ** Answer: C**
 6. **The "unforgiving minute" symbolizes:**
    - A) The rapid passage of time
    - B) A moment of opportunity
    - C) Time's cruel, demanding nature
    - D) Moments of regret
-   - **✅ Answer: C**
+   - ** Answer: C**
 7. **One central theme of the poem is:**
    - A) The importance of winning at all costs
    - B) The power of self-control and balanced life
    - C) The significance of wealth and status
    - D) The inevitability of failure
-   - **✅ Answer: B**
+   - ** Answer: B**
 8. **What internal conflict does the poem encourage individuals to overcome?**
    - A) Doubt versus confidence
    - B) Failure versus pride
    - C) Emotions versus logic
    - D) Personal versus social responsibility
-   - **✅ Answer: A**
+   - ** Answer: A**
 
-#### 📚 Vocabulary Builder
+####  Vocabulary Builder
 | Word | Contextual Meaning | Example Sentence |
 | :--- | :--- | :--- |
 | **Allowance** | Consideration; making room for | "Make allowance for their doubting too" |
@@ -131,12 +131,12 @@ A father's advice to his son on developing character and resilience. The poem ou
 
 ---
 
-### 2️⃣ "THE AGE OF INFANCY" BY DR. ALLAMA MUHAMMAD IQBAL
+### 2⃣ "THE AGE OF INFANCY" BY DR. ALLAMA MUHAMMAD IQBAL
 
-#### 📝 Summary
+####  Summary
 A nostalgic reflection on childhood innocence. The speaker recalls infancy when the world was unknown except for the mother's embrace. Every movement brought pleasure; speech was meaningless but expressive. Comfort came from simple sounds like a door chain. The child stared at the moon, asking about its "mountains and plains," only to later discover the answers were "prudent lies." The poem ends by describing the infant's heart as "inquisitiveness personified"—pure curiosity and wonder.
 
-#### 🔑 Key Themes
+####  Key Themes
 | Theme | Explanation with Text Evidence |
 | :--- | :--- |
 | **Innocence** | "Only the expanse of mother's bosom was a world to me" |
@@ -145,7 +145,7 @@ A nostalgic reflection on childhood innocence. The speaker recalls infancy when 
 | **Discovery vs. Illusion** | "How surprised would I be at that prudent lie" |
 | **Sensory Experience** | "My eye was devoted to seeing, my lip was prone to speak" |
 
-#### ✍️ Literary Devices
+####  Literary Devices
 | Device | Example | Effect |
 | :--- | :--- | :--- |
 | **Metaphor** | "Mother's bosom was a world to me" | Shows mother as infant's entire universe |
@@ -154,7 +154,7 @@ A nostalgic reflection on childhood innocence. The speaker recalls infancy when 
 | **Imagery** | "Staring at its silent journey among broken clouds" | Evokes visual wonder of moon-gazing |
 | **Symbolism** | Moon = mystery; broken clouds = life's uncertainties | Adds layers of meaning to simple images |
 
-#### ❓ Comprehension Q&A
+####  Comprehension Q&A
 - **Q1: How does Iqbal depict innocence and simplicity in the poem?**
   - **A:** Through the infant's limited worldview ("earth and sky were unknown worlds"), reliance on sensory experience ("every movement was a symbol of life's pleasure"), and pure curiosity ("inquisitiveness personified"). The child finds comfort in simple things like a door chain's sound.
 - **Q2: What role does curiosity play in the poem?**
@@ -166,57 +166,57 @@ A nostalgic reflection on childhood innocence. The speaker recalls infancy when 
 - **Q5: How does "inquisitiveness personified" shape understanding of the speaker's emotional state?**
   - **A:** It portrays curiosity not as a trait but as the infant's very essence. The child doesn't just ask questions—their heart is questioning. This emphasizes the purity and intensity of childhood wonder.
 
-#### 🎯 MCQs
+####  MCQs
 1. **The first two lines convey the poet's acknowledgement of:**
    - A) Lack of awareness of the vast world
    - B) Mother's lap as entire world
    - C) Sense of complex emotions
    - D) The world as blessing in disguise
-   - **✅ Answer: B**
+   - ** Answer: B**
 2. **Which statement contains a metaphor?**
    - A) Mother's bosom was a world to me
    - B) Speech was like a meaningless word to me
    - C) Door chain would comfort me
    - D) Stared at the moon for long hours
-   - **✅ Answer: A**
+   - ** Answer: A**
 3. **"Meaningless word to me" expresses that an infant's:**
    - A) Voices without purpose
    - B) Sounds with complexity
    - C) Words without logical interpretation
    - D) Words without emotions
-   - **✅ Answer: C**
+   - ** Answer: C**
 4. **Lines 5-6 point out that a crying child gets:**
    - A) Easily comforted with any sound
    - B) Only comforted with door chain sound
    - C) Hardly comforted with any sound
    - D) Annoyed with the door chain sound
-   - **✅ Answer: A**
+   - ** Answer: A**
 5. **"The moon" and "silent journey among broken clouds" metaphorically point to:**
    - A) Mother, mother's struggle in life
    - B) Life, and life's ups and downs
    - C) Peace, tranquility in life
    - D) They are not metaphors
-   - **✅ Answer: A**
+   - ** Answer: A**
 6. **"That prudent lie" refers to:**
    - A) The silent journey of the moon
    - B) The answers he got were wrong
    - C) The answers on mountains and plains
    - D) The answers he got in school
-   - **✅ Answer: C**
+   - ** Answer: C**
 7. **What theme is primarily explored?**
    - A) Complexities of adulthood
    - B) Innocence of childhood
    - C) Relationship between nature and humans
    - D) Speaker's fear of growing up
-   - **✅ Answer: B**
+   - ** Answer: B**
 8. **The poem reflects contrast between infancy and adulthood by emphasizing the child's:**
    - A) Strong knowledge of the world
    - B) Simplicity, curiosity, and reliance on sensory experiences
    - C) Deep understanding of abstract concepts
    - D) Communication of mature ideas
-   - **✅ Answer: B**
+   - ** Answer: B**
 
-#### 📚 Vocabulary Builder
+####  Vocabulary Builder
 | Word | Contextual Meaning | Example Sentence |
 | :--- | :--- | :--- |
 | **Infancy** | Early childhood; babyhood | "During infancy's pain if somebody made me cry" |
@@ -232,12 +232,12 @@ A nostalgic reflection on childhood innocence. The speaker recalls infancy when 
 
 ---
 
-### 3️⃣ "THE SEVEN AGES OF MAN" BY WILLIAM SHAKESPEARE
+### 3⃣ "THE SEVEN AGES OF MAN" BY WILLIAM SHAKESPEARE
 
-#### 📝 Summary
+####  Summary
 From *As You Like It*, this famous monologue presents life as a stage where everyone plays seven roles: (1) Infant—helpless, crying; (2) Schoolboy—reluctant, whining; (3) Lover—passionate, sighing; (4) Soldier—brave, seeking reputation; (5) Justice—wise, well-fed, authoritative; (6) Elderly—"lean and slippered pantaloon"—weak, voice returning to childish treble; (7) Second childhood—"sans teeth, sans eyes, sans taste, sans everything"—complete dependence and oblivion. The poem reflects on life's transience and universal human journey.
 
-#### 🔑 Key Themes
+####  Key Themes
 | Theme | Explanation with Text Evidence |
 | :--- | :--- |
 | **Life as Performance** | "All the world's a stage, / And all the men and women merely players" |
@@ -246,7 +246,7 @@ From *As You Like It*, this famous monologue presents life as a stage where ever
 | **Aging and Decline** | "Last scene of all... second childishness, and mere oblivion" |
 | **Reputation's Fragility** | "Seeking the bubble reputation / Even in the cannon's mouth" |
 
-#### ✍️ Literary Devices
+####  Literary Devices
 | Device | Example | Effect |
 | :--- | :--- | :--- |
 | **Extended Metaphor** | World = stage; people = actors | Unifies entire poem; makes abstract concept tangible |
@@ -255,7 +255,7 @@ From *As You Like It*, this famous monologue presents life as a stage where ever
 | **Repetition** | "Sans teeth, sans eyes, sans taste, sans everything" | Emphasizes total loss in final stage |
 | **Irony** | Seeking "bubble reputation" in battle | Highlights futility of worldly ambitions |
 
-#### ❓ Comprehension Q&A
+####  Comprehension Q&A
 - **Q1: What do 'entrances' and 'exits' represent?**
   - **A:** They symbolize birth and death—the beginning and end of each person's life performance. Just as actors enter and leave a stage, humans are born and die, playing their roles in between.
 - **Q2: How does a man play the sixth role (elderly age)?**
@@ -267,62 +267,62 @@ From *As You Like It*, this famous monologue presents life as a stage where ever
 - **Q5: What is the meaning of "bubble reputation"?**
   - **A:** A "bubble" is fragile, temporary, and easily burst. The soldier seeks fame that seems valuable but is actually insubstantial and short-lived. Shakespeare critiques the pursuit of glory that costs life itself.
 
-#### 🎯 MCQs
+####  MCQs
 1. **"Seeking the bubble reputation" suggests that:**
    - A) Reputation is easy to achieve
    - B) Reputation is fragile and temporary
    - C) Reputation lasts forever
    - D) Reputation is deceptive
-   - **✅ Answer: B**
+   - ** Answer: B**
 2. **The poem depicts a schoolboy's attitude toward school as:**
    - A) Excited to go to school
    - B) Eagerly runs to school
    - C) Drags himself unwillingly to school
-   - D) Proudly carries books to school
-   - **✅ Answer: C**
+   - D) Proudly carries notes to school
+   - ** Answer: C**
 3. **In the stage of "the justice," the man is physically described as:**
    - A) Bearded like a pard
    - B) With spectacles on his nose
    - C) Full of strange oaths
    - D) With a fair round belly
-   - **✅ Answer: D**
+   - ** Answer: D**
 4. **Which best describes the tone of the poem?**
    - A) Celebratory and joyful
    - B) Bitter and accusatory
    - C) Reflective and philosophical
    - D) Angry and rebellious
-   - **✅ Answer: C**
+   - ** Answer: C**
 5. **Shakespeare's purpose in dividing life into seven stages is to show that:**
    - A) Each person's life is entirely unique
    - B) Human life progresses through predictable stages
    - C) People are free from societal roles
    - D) The unpredictability of life events
-   - **✅ Answer: B**
+   - ** Answer: B**
 6. **The phrase "sans teeth, sans eyes, sans taste, sans everything" emphasizes:**
    - A) The joy of old age
    - B) Complete loss and dependence in final stage
    - C) The importance of health
    - D) The value of experience
-   - **✅ Answer: B**
+   - ** Answer: B**
 7. **What literary device is "All the world's a stage"?**
    - A) Simile
    - B) Metaphor
    - C) Personification
    - D) Hyperbole
-   - **✅ Answer: B**
+   - ** Answer: B**
 8. **The soldier stage emphasizes:**
    - A) Peaceful resolution
    - B) Courage and pursuit of glory
    - C) Domestic life
    - D) Intellectual growth
-   - **✅ Answer: B**
+   - ** Answer: B**
 
-#### 📚 Vocabulary Builder
+####  Vocabulary Builder
 | Word | Contextual Meaning | Example Sentence |
 | :--- | :--- | :--- |
 | **Mewling** | Crying weakly; infant sounds | "Mewling and puking in the nurse's arms" |
 | **Puking** | Vomiting; infant helplessness | "Mewling and puking" |
-| **Satchel** | Small bag for books | "The whining schoolboy, with his satchel" |
+| **Satchel** | Small bag for notes | "The whining schoolboy, with his satchel" |
 | **Pard** | Leopard; symbol of fierceness | "Bearded like the pard" |
 | **Capon** | Castrated rooster; symbol of luxury | "Fair round belly with good capon lined" |
 | **Saws** | Wise sayings; proverbs | "Full of wise saws and modern instances" |
@@ -333,12 +333,12 @@ From *As You Like It*, this famous monologue presents life as a stage where ever
 
 ---
 
-### 4️⃣ "YOU START DYING SLOWLY" BY PABLO NERUDA
+### 4⃣ "YOU START DYING SLOWLY" BY PABLO NERUDA
 
-#### 📝 Summary
+####  Summary
 A reflective poem warning against emotional and spiritual stagnation. The repeated phrase "You start dying slowly" introduces behaviors that lead to a kind of living death: not traveling, not reading, not appreciating oneself, killing self-esteem, refusing help, becoming a slave to habits, avoiding passion, fearing risk, and ignoring dreams. The poem encourages conscious living—embracing change, feeling deeply, taking risks, and pursuing dreams to truly live.
 
-#### 🔑 Key Themes
+####  Key Themes
 | Theme | Explanation with Text Evidence |
 | :--- | :--- |
 | **Living Fully vs. Existing** | "You start dying slowly / if you do not travel, / if you do not read" |
@@ -347,7 +347,7 @@ A reflective poem warning against emotional and spiritual stagnation. The repeat
 | **Self-Worth** | "When you kill your self-esteem; / When you do not let others help you" |
 | **Courage to Change** | "If you do not risk what is safe for the uncertain" |
 
-#### ✍️ Literary Devices
+####  Literary Devices
 | Device | Example | Effect |
 | :--- | :--- | :--- |
 | **Anaphora** | Repetition of "You start dying slowly" | Creates rhythmic warning; emphasizes cumulative danger |
@@ -356,7 +356,7 @@ A reflective poem warning against emotional and spiritual stagnation. The repeat
 | **Parallelism** | Series of "If you..." clauses | Builds persuasive momentum; lists actionable advice |
 | **Paradox** | "Dying slowly" while alive | Highlights contradiction of unfulfilled existence |
 
-#### ❓ Comprehension Q&A
+####  Comprehension Q&A
 - **Q1: Why does the poet emphasize change (different colors, speaking to strangers)?**
   - **A:** Change breaks monotony and prevents spiritual stagnation. New experiences stimulate growth, broaden perspective, and keep life vibrant. Routine leads to "dying slowly"; variety keeps the soul alive.
 - **Q2: What emotions or experiences does the poet value?**
@@ -368,55 +368,55 @@ A reflective poem warning against emotional and spiritual stagnation. The repeat
 - **Q5: How does Neruda's poem serve as both warning and encouragement?**
   - **A:** Warning: Lists behaviors that lead to "dying slowly." Encouragement: Implicitly offers alternatives—travel, read, feel, risk, dream. The warning is stronger initially, but the hopeful alternatives empower readers to choose life.
 
-#### 🎯 MCQs
+####  MCQs
 1. **By repeating "You start dying slowly," the poet implies that:**
    - A) Death is a gradual physical process
    - B) Emotional and spiritual stagnation leads to living death
    - C) Everyone will die eventually
    - D) Life is short, so enjoy it
-   - **✅ Answer: B**
+   - ** Answer: B**
 2. **According to the poet, one action that causes a person to "die slowly" is:**
    - A) Traveling frequently
    - B) Avoiding routine activities
    - C) Failing to change habits
    - D) Seeking advice from others
-   - **✅ Answer: C**
+   - ** Answer: C**
 3. **What is the poet's view on passion?**
    - A) Passion should be avoided
    - B) Passion is unnecessary for a fulfilling life
    - C) Passion, though turbulent, is essential to feeling alive
    - D) Passion leads to heartbreak and regret
-   - **✅ Answer: C**
+   - ** Answer: C**
 4. **"Becoming a slave of your habits" means:**
    - A) Being overly disciplined in life
    - B) Following routines without question
    - C) Living freely and exploring new ideas
-   - **✅ Answer: B**
+   - ** Answer: B**
 5. **What message does Neruda convey about self-esteem?**
    - A) Self-esteem is unimportant in living a full life
    - B) Strong self-esteem leads to personal stagnation
    - C) Low self-esteem can contribute to emotional decay
    - D) Self-esteem only affects relationships
-   - **✅ Answer: C**
+   - ** Answer: C**
 6. **The poet's list of things to avoid is meant to:**
    - A) Judge people who do them
    - B) Encourage conformity
    - C) Inspire awareness and conscious living
-   - **✅ Answer: C**
+   - ** Answer: C**
 7. **Which line best supports the idea of emotional courage?**
    - A) "When you kill your self-esteem"
    - B) "If you avoid to feel passion"
    - C) "If you become a slave of your habits"
    - D) "When you do not let others help you"
-   - **✅ Answer: B**
+   - ** Answer: B**
 8. **The overall tone of the poem is:**
    - A) Angry and accusatory
    - B) Reflective and urging
    - C) Joyful and celebratory
    - D) Detached and clinical
-   - **✅ Answer: B**
+   - ** Answer: B**
 
-#### 📚 Vocabulary Builder
+####  Vocabulary Builder
 | Word | Contextual Meaning | Example Sentence |
 | :--- | :--- | :--- |
 | **Turbulent** | Disordered; agitated | "And their turbulent emotions" |
@@ -427,12 +427,12 @@ A reflective poem warning against emotional and spiritual stagnation. The repeat
 
 ---
 
-### 5️⃣ "ULYSSES" BY ALFRED LORD TENNYSON
+### 5⃣ "ULYSSES" BY ALFRED LORD TENNYSON
 
-#### 📝 Summary
+####  Summary
 An aged Ulysses (Odysseus) addresses his mariners, urging them to sail one last adventure. Though old, he rejects passive retirement: "Old age hath yet his honour and his toil." He acknowledges death is inevitable but insists on seeking "some work of noble note" before the end. The poem celebrates perseverance, the heroic spirit, and the human drive to "strive, to seek, to find, and not to yield"—even when strength fades.
 
-#### 🔑 Key Themes
+####  Key Themes
 | Theme | Explanation with Text Evidence |
 | :--- | :--- |
 | **Perseverance in Aging** | "Old age hath yet his honour and his toil" |
@@ -441,7 +441,7 @@ An aged Ulysses (Odysseus) addresses his mariners, urging them to sail one last 
 | **Mortality and Action** | "Death closes all: but something ere the end, / Some work of noble note, may yet be done" |
 | **Companionship** | "Souls that have toiled, and wrought, and thought with me" |
 
-#### ✍️ Literary Devices
+####  Literary Devices
 | Device | Example | Effect |
 | :--- | :--- | :--- |
 | **Dramatic Monologue** | Ulysses speaking to mariners | Creates intimate, persuasive voice; reveals character |
@@ -450,7 +450,7 @@ An aged Ulysses (Odysseus) addresses his mariners, urging them to sail one last 
 | **Metaphor** | "Happy Isles" = afterlife/ideal destination | Adds mythic dimension to quest |
 | **Repetition** | "To strive, to seek, to find, and not to yield" | Memorable climax; encapsulates poem's message |
 
-#### ❓ Comprehension Q&A
+####  Comprehension Q&A
 - **Q1: How does Ulysses' reflection on death shape his perspective on life?**
   - **A:** Knowing "Death closes all" creates urgency, not despair. Ulysses believes that because life is finite, one must act nobly while possible. Mortality motivates purposeful action, not passive waiting.
 - **Q2: How does Ulysses motivate his companions to sail again?**
@@ -462,57 +462,57 @@ An aged Ulysses (Odysseus) addresses his mariners, urging them to sail one last 
 - **Q5: What does "Happy Isles" symbolize?**
   - **A:** In Greek myth, the Isles of the Blessed were where heroes went after death. Here, it symbolizes an ideal destination—whether literal paradise, achieved goals, or spiritual fulfillment. It represents hope and the reward of perseverance.
 
-#### 🎯 MCQs
+####  MCQs
 1. **What does Ulysses imply about aging?**
    - A) Old age is a sign of weakness
    - B) Old age grants wisdom and should be revered
    - C) Aging doesn't diminish the desire for noble pursuits
    - D) Aging means the end of adventure
-   - **✅ Answer: C**
+   - ** Answer: C**
 2. **How does Ulysses' tone reflect his attitude toward fate?**
    - A) Defeated but calm
    - B) Fearful and anxious
    - C) Hopeful and determined
    - D) Content and reflective
-   - **✅ Answer: C**
+   - ** Answer: C**
 3. **Ulysses is also known as ______ in Greek mythology.**
    - A) Pantheon
    - B) Mr. Peterson
    - C) Orpheus
    - D) Odysseus
-   - **✅ Answer: D**
+   - ** Answer: D**
 4. **When Ulysses says "You and I are old," he suggests:**
    - A) They have grown wiser with time
    - B) Their time of adventure has passed
    - C) They should rest instead of seeking new goals
    - D) Their age does not prevent new challenges
-   - **✅ Answer: D**
+   - ** Answer: D**
 5. **"The long day wanes" and "the slow moon climbs" suggest:**
    - A) The approaching end of life
    - B) The beginning of a new day
    - C) The promise of endless time
    - D) Their age does not prevent taking challenges
-   - **✅ Answer: A**
+   - ** Answer: A**
 6. **The tone of "To strive, to seek, to find, and not to yield" is:**
    - A) Resigned
    - B) Defeated
    - C) Apathetic
    - D) Determined
-   - **✅ Answer: D**
+   - ** Answer: D**
 7. **What literary device is used in "The lights begin to twinkle from the rocks"?**
    - A) Personification
    - B) Simile
    - C) Metaphor
    - D) Alliteration
-   - **✅ Answer: D**
+   - ** Answer: D**
 8. **The central message of the poem is:**
    - A) Rest is the reward of age
    - B) The heroic spirit persists despite physical decline
    - C) Adventure is only for the young
    - D) Fate cannot be challenged
-   - **✅ Answer: B**
+   - ** Answer: B**
 
-#### 📚 Vocabulary Builder
+####  Vocabulary Builder
 | Word | Contextual Meaning | Example Sentence |
 | :--- | :--- | :--- |
 | **Wrought** | Worked; accomplished | "Souls that have toiled, and wrought, and thought with me" |
@@ -523,12 +523,12 @@ An aged Ulysses (Odysseus) addresses his mariners, urging them to sail one last 
 
 ---
 
-### 6️⃣ "FUNERAL BLUES" BY W.H. AUDEN
+### 6⃣ "FUNERAL BLUES" BY W.H. AUDEN
 
-#### 📝 Summary
+####  Summary
 A powerful elegy expressing overwhelming grief after losing a loved one. The speaker demands the world stop—clocks, phones, music—to acknowledge the death. Hyperbolic commands ("Pack up the moon and dismantle the sun") convey how the loss makes the cosmos meaningless. The beloved was the speaker's entire world ("my North, my South, my East and West"), and without them, "nothing now can ever come to any good."
 
-#### 🔑 Key Themes
+####  Key Themes
 | Theme | Explanation with Text Evidence |
 | :--- | :--- |
 | **Overwhelming Grief** | "Stop all the clocks, cut off the telephone" |
@@ -537,7 +537,7 @@ A powerful elegy expressing overwhelming grief after losing a loved one. The spe
 | **Disillusionment** | "I thought that love would last for ever: I was wrong" |
 | **Cosmic Despair** | "Pour away the ocean and sweep up the wood" |
 
-#### ✍️ Literary Devices
+####  Literary Devices
 | Device | Example | Effect |
 | :--- | :--- | :--- |
 | **Hyperbole** | "Pack up the moon and dismantle the sun" | Conveys intensity of grief; makes emotion tangible |
@@ -546,7 +546,7 @@ A powerful elegy expressing overwhelming grief after losing a loved one. The spe
 | **Alliteration** | "Prevent the dog from barking with a juicy bone" | Creates rhythmic, almost incantatory quality |
 | **Paradox** | Demanding world stop while world continues | Highlights disconnect between inner grief and outer reality |
 
-#### ❓ Comprehension Q&A
+####  Comprehension Q&A
 - **Q1: Why does the speaker want to stop clocks and silence everything?**
   - **A:** The speaker feels the world should acknowledge the magnitude of the loss. Stopping time and noise symbolizes the desire for the universe to pause in respect—and reflects how grief makes normal life feel irrelevant.
 - **Q2: How does the poet use ordinary objects to emphasize sorrow?**
@@ -558,57 +558,57 @@ A powerful elegy expressing overwhelming grief after losing a loved one. The spe
 - **Q5: Why is silence emphasized so strongly?**
   - **A:** Silence represents both respect for the dead and the speaker's inner emptiness. Noise (clocks, phones, music) symbolizes life continuing; silencing it acknowledges that, for the speaker, life has effectively stopped.
 
-#### 🎯 MCQs
+####  MCQs
 1. **By "Stop all the clocks," the poem means:**
    - A) To pause time to remember the deceased
    - B) To stop all noise for silence
    - C) Irrelevance of time after loss
    - D) All of the above
-   - **✅ Answer: D**
+   - ** Answer: D**
 2. **In "I thought that love would last for ever: I was wrong," the poet:**
    - A) Believes love is eternal
    - B) Feels disillusioned by death's power to end love
    - C) Doubts their feelings for the deceased
    - D) Feels that time erases all emotions
-   - **✅ Answer: B**
+   - ** Answer: B**
 3. **"Pack up the moon and dismantle the sun" is meant to:**
    - A) Express frustration with the natural world
    - B) Depict the insignificance of the cosmos after death
    - C) Show a desire to control nature
    - D) Advocate for environmental change
-   - **✅ Answer: B**
+   - ** Answer: B**
 4. **The primary message of the poem is that:**
    - A) Death is a natural part of life
    - B) The loss of a loved one overshadows everything else
    - C) Love is fleeting and temporary
    - D) Mourning should involve dramatic rituals
-   - **✅ Answer: B**
+   - ** Answer: B**
 5. **What is the overall tone of the poem?**
    - A) Joyful
    - B) Hopeful
    - C) Grieving and despairing
    - D) Excited
-   - **✅ Answer: C**
+   - ** Answer: C**
 6. **What theme is most prominent?**
    - A) Adventure
    - B) Love and irreparable loss
    - C) Nature and seasons
    - D) Family traditions
-   - **✅ Answer: B**
+   - ** Answer: B**
 7. **Why does the speaker want to "silence the pianos"?**
    - A) They dislike music
    - B) Pianos are too loud
    - C) It feels inappropriate to play during grief
    - D) The pianos are broken
-   - **✅ Answer: C**
+   - ** Answer: C**
 8. **Which best describes the poet's message?**
    - A) Celebrate life after death
    - B) Grief makes the world feel empty and meaningless
    - C) Time heals all wounds
    - D) Love can be easily replaced
-   - **✅ Answer: B**
+   - ** Answer: B**
 
-#### 📚 Vocabulary Builder
+####  Vocabulary Builder
 | Word | Contextual Meaning | Example Sentence |
 | :--- | :--- | :--- |
 | **Prevent** | Stop; keep from happening | "Prevent the dog from barking" |
@@ -624,12 +624,12 @@ A powerful elegy expressing overwhelming grief after losing a loved one. The spe
 
 ---
 
-### 7️⃣ SELECTED VERSES FROM SUR SASUI BY SHAH ABDUL LATIF BHITTAI
+### 7⃣ SELECTED VERSES FROM SUR SASUI BY SHAH ABDUL LATIF BHITTAI
 
-#### 📝 Summary
+####  Summary
 Sufi verses using the folk tale of Sasui's quest for her beloved Punhoon as metaphor for the soul's journey toward God. Sasui endures desert hardships, burning love, and constant longing. Key images: fire (passion/devotion), desert (spiritual trial), tears (purification), tracks (guidance toward the Divine). The poetry emphasizes that true seekers embrace suffering, maintain unwavering commitment, and understand that forgetting the Beloved equals spiritual death.
 
-#### 🔑 Key Themes
+####  Key Themes
 | Theme | Explanation with Text Evidence |
 | :--- | :--- |
 | **Spiritual Longing** | "Burn as long as you live, choice there is none" |
@@ -638,7 +638,7 @@ Sufi verses using the folk tale of Sasui's quest for her beloved Punhoon as meta
 | **The Journey Itself** | "March on... there is no time to rest" |
 | **Separation as Trial** | "Hot is the ground beneath my feet" |
 
-#### ✍️ Literary Devices
+####  Literary Devices
 | Device | Example | Effect |
 | :--- | :--- | :--- |
 | **Metaphor** | Love = fire; desert = spiritual trial | Makes abstract devotion tangible through physical imagery |
@@ -647,7 +647,7 @@ Sufi verses using the folk tale of Sasui's quest for her beloved Punhoon as meta
 | **Personification** | "Desert blast may bring my end" | Gives nature active role in spiritual drama |
 | **Paradox** | Burning = living; forgetting = death | Highlights Sufi concept of dying to self to live in God |
 
-#### ❓ Comprehension Q&A
+####  Comprehension Q&A
 - **Q1: How does the poet describe physical and emotional pain?**
   - **A:** Through visceral imagery: "Hot is the ground beneath my feet" (physical trial); "Tears from my eyes fall like drops of rain" (emotional sorrow); "Burn as long as you live" (consuming passion). Pain is not avoided but embraced as part of devotion.
 - **Q2: What spiritual lesson emerges from constant struggle and longing?**
@@ -659,57 +659,57 @@ Sufi verses using the folk tale of Sasui's quest for her beloved Punhoon as meta
 - **Q5: What lesson does the poet convey about commitment despite suffering?**
   - **A:** True devotion means continuing the quest regardless of pain. "Burn as long as you live" suggests that passionate longing is not a problem to solve but a state to inhabit. Giving up = spiritual death; persevering = ultimate union.
 
-#### 🎯 MCQs
+####  MCQs
 1. **In Verse II, "no place to rest" represents:**
    - A) A lack of physical shelters
    - B) The absence of sleep
    - C) Continuous struggle in the path of love or devotion
    - D) A call to travel at night
-   - **✅ Answer: C**
+   - ** Answer: C**
 2. **The poetic device in "Tears from my eyes fall like drops of rain" is:**
    - A) Metaphor
    - B) Simile
    - C) Hyperbole
    - D) Irony
-   - **✅ Answer: B**
+   - ** Answer: B**
 3. **In the Verse IV about the desert blast, the poet implies:**
    - A) She enjoys desert life
    - B) The desert wind will guide her
    - C) Forgetting the beloved could lead to destruction
    - D) Desert winds bring blessings
-   - **✅ Answer: C**
+   - ** Answer: C**
 4. **Which theme is most central in these verses?**
    - A) Political rebellion
    - B) Romantic union
    - C) Spiritual devotion and perseverance
    - D) Historical stories
-   - **✅ Answer: C**
+   - ** Answer: C**
 5. **When the poet says "march on, there is no time to rest," the quality emphasized is:**
    - A) Anger
    - B) Persistence
    - C) Confusion
    - D) Arrogance
-   - **✅ Answer: B**
+   - ** Answer: B**
 6. **Why does Bhittai use fire and heat imagery repeatedly?**
    - A) To describe summer weather
    - B) To symbolize burning love and inner spiritual longing
    - C) To warn travelers of physical danger
    - D) To promote patience
-   - **✅ Answer: B**
+   - ** Answer: B**
 7. **What spiritual lesson can we learn from Sasui's unwavering journey?**
    - A) Give up when things are difficult
    - B) Real devotion means staying within comfort
    - C) True seekers embrace suffering for a higher goal
    - D) The beloved should come to the seeker
-   - **✅ Answer: C**
+   - ** Answer: C**
 8. **Forgetting the beloved is equated with death because:**
    - A) It's physically dangerous
    - B) Memory loss leads to confusion
    - C) Spiritual disconnection is seen as soul-death
    - D) The beloved would be angry
-   - **✅ Answer: C**
+   - ** Answer: C**
 
-#### 📚 Vocabulary Builder
+####  Vocabulary Builder
 | Word/Phrase | Figurative Meaning | Example from Text |
 | :--- | :--- | :--- |
 | **Burn as long as you live** | Endure passionate devotion throughout life | "Burn as long as you live, choice there is none" |
@@ -725,7 +725,289 @@ Sufi verses using the folk tale of Sasui's quest for her beloved Punhoon as meta
 
 ---
 
-## 🎯 QUICK REVISION SHEET: ALL POEMS
+
+11. **Who wrote the poem "If"?**
+    - A) William Shakespeare
+    - B) Rudyard Kipling
+    - C) W.H. Auden
+    - D) Pablo Neruda
+    - ** Answer: B**
+
+12. **What does Kipling say you should do when all men doubt you?**
+    - A) Fight them
+    - B) Ignore them
+    - C) Trust yourself, but make allowance for their doubting too
+    - D) Doubt yourself as well
+    - ** Answer: C**
+
+13. **In "If", what two things are called "impostors"?**
+    - A) Love and Hate
+    - B) Joy and Sorrow
+    - C) Triumph and Disaster
+    - D) Wealth and Poverty
+    - ** Answer: C**
+
+14. **What does "keep your head" mean in "If"?**
+    - A) Wear a hat
+    - B) Stay calm in a crisis
+    - C) Be stubborn
+    - D) Look straight ahead
+    - ** Answer: B**
+
+15. **Who wrote the poem "All the World's a Stage"?**
+    - A) John Keats
+    - B) William Shakespeare
+    - C) John Milton
+    - D) Alfred Tennyson
+    - ** Answer: B**
+
+16. **What play is "All the World's a Stage" taken from?**
+    - A) Hamlet
+    - B) Macbeth
+    - C) As You Like It
+    - D) Romeo and Juliet
+    - ** Answer: C**
+
+17. **Who is the speaker of "All the World's a Stage"?**
+    - A) Romeo
+    - B) Jaques
+    - C) Othello
+    - D) King Lear
+    - ** Answer: B**
+
+18. **How many acts are in Shakespeare's metaphor of life?**
+    - A) Five
+    - B) Seven
+    - C) Ten
+    - D) Three
+    - ** Answer: B**
+
+19. **What is the first stage of life?**
+    - A) The Schoolboy
+    - B) The Lover
+    - C) The Infant
+    - D) The Soldier
+    - ** Answer: C**
+
+20. **What characterizes the "Lover" stage?**
+    - A) Seeking the bubble reputation
+    - B) Sighing like furnace, with a woeful ballad
+    - C) Full of wise saws
+    - D) Creeping like snail
+    - ** Answer: B**
+
+21. **What is the "Soldier" seeking?**
+    - A) True love
+    - B) The bubble reputation
+    - C) Wealth
+    - D) Peace
+    - ** Answer: B**
+
+22. **What characterizes the "Justice" stage?**
+    - A) A fair round belly, full of wise saws
+    - B) Jealous in honor
+    - C) Mewling and puking
+    - D) Sans teeth, sans eyes
+    - ** Answer: A**
+
+23. **What is the final stage called?**
+    - A) The Pantaloon
+    - B) Second childishness and mere oblivion
+    - C) The Justice
+    - D) The Ghost
+    - ** Answer: B**
+
+24. **What does "sans" mean in the phrase "sans teeth, sans eyes"?**
+    - A) With
+    - B) Without
+    - C) Before
+    - D) After
+    - ** Answer: B**
+
+25. **Who wrote the poem "Ulysses"?**
+    - A) William Wordsworth
+    - B) Alfred, Lord Tennyson
+    - C) Robert Browning
+    - D) T.S. Eliot
+    - ** Answer: B**
+
+26. **What does Ulysses want to do?**
+    - A) Rule his kingdom peacefully
+    - B) Continue traveling and seeking knowledge
+    - C) Retire and rest
+    - D) Start a war
+    - ** Answer: B**
+
+27. **Who is Ulysses leaving his kingdom to?**
+    - A) His wife, Penelope
+    - B) His son, Telemachus
+    - C) His generals
+    - D) The gods
+    - ** Answer: B**
+
+28. **What is the famous last line of "Ulysses"?**
+    - A) To be or not to be
+    - B) To strive, to seek, to find, and not to yield
+    - C) I am the master of my fate
+    - D) Into the valley of Death
+    - ** Answer: B**
+
+29. **What does "You Start Dying Slowly" emphasize?**
+    - A) The importance of saving money
+    - B) The importance of passion, change, and avoiding a repetitive routine
+    - C) The dangers of traveling
+    - D) The inevitability of physical death
+    - ** Answer: B**
+
+30. **Who is often credited with "You Start Dying Slowly"?**
+    - A) Pablo Neruda / Martha Medeiros
+    - B) Sylvia Plath
+    - C) Maya Angelou
+    - D) Emily Dickinson
+    - ** Answer: A**
+
+31. **According to "You Start Dying Slowly", you die slowly if you become a slave to what?**
+    - A) Your job
+    - B) Your habits
+    - C) Society
+    - D) Technology
+    - ** Answer: B**
+
+32. **What does the poem say about self-esteem?**
+    - A) You die slowly if you kill your self-esteem
+    - B) Self-esteem is dangerous
+    - C) It is better to be humble
+    - D) It doesn't mention self-esteem
+    - ** Answer: A**
+
+33. **Who wrote "Funeral Blues"?**
+    - A) W.B. Yeats
+    - B) W.H. Auden
+    - C) Dylan Thomas
+    - D) Seamus Heaney
+    - ** Answer: B**
+
+34. **What is the tone of "Funeral Blues"?**
+    - A) Joyful and celebratory
+    - B) Deeply sorrowful and despairing
+    - C) Angry and bitter
+    - D) Calm and peaceful
+    - ** Answer: B**
+
+35. **What does the speaker in "Funeral Blues" want to happen to the clocks?**
+    - A) Wind them up
+    - B) Stop all the clocks
+    - C) Sell them
+    - D) Ignore them
+    - ** Answer: B**
+
+36. **What did the deceased mean to the speaker?**
+    - A) "He was my North, my South, my East and West"
+    - B) "He was just a friend"
+    - C) "He was a passing shadow"
+    - D) "He was my enemy"
+    - ** Answer: A**
+
+37. **What does the speaker in "Funeral Blues" want to do to the moon and stars?**
+    - A) Pray to them
+    - B) Dismantle the sun, pack up the moon / put out the stars
+    - C) Paint them
+    - D) Sing to them
+    - ** Answer: B**
+
+38. **Who is the author of "Age of Infancy" (from the syllabus context)?**
+    - A) Faiz Ahmad Faiz
+    - B) Allama Iqbal
+    - C) Mirza Ghalib
+    - D) Mir Taqi Mir
+    - ** Answer: B**
+
+39. **What is the focus of "Age of Infancy"?**
+    - A) The struggles of adulthood
+    - B) The pure, innocent worldview of a child and maternal love
+    - C) Political freedom
+    - D) War
+    - ** Answer: B**
+
+40. **What represents the universe for the infant?**
+    - A) The stars
+    - B) "The expanse of mother's bosom"
+    - C) The sky
+    - D) The house
+    - ** Answer: B**
+
+41. **Who wrote "Sur Sasui"?**
+    - A) Bulleh Shah
+    - B) Shah Abdul Latif Bhittai
+    - C) Sachal Sarmast
+    - D) Khawaja Ghulam Farid
+    - ** Answer: B**
+
+42. **What is the central theme of "Sur Sasui"?**
+    - A) Political power
+    - B) Devotion, suffering for love, and the journey to find the beloved
+    - C) Nature's beauty
+    - D) Wealth and greed
+    - ** Answer: B**
+
+43. **What does "Sasui" represent metaphorically?**
+    - A) The cruel world
+    - B) The human soul seeking the divine
+    - C) A lost child
+    - D) A queen
+    - ** Answer: B**
+
+44. **What must Sasui endure on her journey?**
+    - A) A comfortable carriage ride
+    - B) Scorching heat, rough terrain, and physical pain
+    - C) A sea voyage
+    - D) Nothing, it was easy
+    - ** Answer: B**
+
+45. **What does the phrase "Burn as long as you live" imply in Sur Sasui?**
+    - A) Literal fire
+    - B) The continuous pain and passion of true devotion
+    - C) Anger towards society
+    - D) Destructive behavior
+    - ** Answer: B**
+
+46. **Which poem focuses heavily on the theme of grief?**
+    - A) "If"
+    - B) "Funeral Blues"
+    - C) "Age of Infancy"
+    - D) "Ulysses"
+    - ** Answer: B**
+
+47. **Which poem focuses heavily on the theme of perseverance in old age?**
+    - A) "Sur Sasui"
+    - B) "Ulysses"
+    - C) "All the World's a Stage"
+    - D) "You Start Dying Slowly"
+    - ** Answer: B**
+
+48. **Which poem focuses on stoicism and balanced manhood?**
+    - A) "If"
+    - B) "Funeral Blues"
+    - C) "Sur Sasui"
+    - D) "Age of Infancy"
+    - ** Answer: A**
+
+49. **In "All the World's a Stage", who wears "spectacles on nose"?**
+    - A) The Justice
+    - B) The Pantaloon / Sixth stage
+    - C) The Lover
+    - D) The Schoolboy
+    - ** Answer: B**
+
+50. **What is the overarching message of "You Start Dying Slowly"?**
+    - A) Avoid risks
+    - B) Live life fully and passionately
+    - C) Focus on making money
+    - D) Stay in your comfort zone
+    - ** Answer: B**
+
+
+##  QUICK REVISION SHEET: ALL POEMS
 
 ### Key Quotes to Memorize
 | Poem | Quote | Significance |
@@ -739,7 +1021,16 @@ Sufi verses using the folk tale of Sasui's quest for her beloved Punhoon as meta
 | **Sur Sasui** | "Burn as long as you live, choice there is none" | Devotion as lifelong commitment |
 
 ### Exam Tips
-- ✅ **Poetry:** Identify literary devices first—they often hold the key to meaning.
-- ✅ **Themes:** Link quotes to themes using "This shows that..." structure.
-- ✅ **MCQs:** Eliminate obviously wrong answers first; watch for absolutes ("always," "never").
-- ✅ **Comprehension:** Always support answers with text evidence—quote or paraphrase.
+-  **Poetry:** Identify literary devices first—they often hold the key to meaning.
+-  **Themes:** Link quotes to themes using "This shows that..." structure.
+-  **MCQs:** Eliminate obviously wrong answers first; watch for absolutes ("always," "never").
+-  **Comprehension:** Always support answers with text evidence—quote or paraphrase.
+
+
+### Descriptive Questions (Long Answers)
+
+**Q1: Summarize the main theme of the poem "If" by Rudyard Kipling. What qualities does the poet consider essential for true manhood?**
+**A:** The main theme of "If" is the cultivation of a balanced, virtuous character capable of withstanding life's extremes. Kipling outlines essential qualities for true manhood: maintaining composure in the face of panic, trusting oneself while accepting doubt, being patient, honest, and humble. A true leader must treat both success ("Triumph") and failure ("Disaster") as impostors, rebuilding after loss without complaint. The poem emphasizes self-discipline, resilience, and moral integrity as the highest human achievements.
+
+**Q2: Describe the seven stages of human life as portrayed by William Shakespeare in "All the World's a Stage".**
+**A:** Shakespeare compares life to a play with seven acts. It begins with the helpless **Infant**, crying and vomiting. Next is the **Whining Schoolboy**, reluctantly walking to school. The third is the **Lover**, sighing passionately and writing sad poems. The fourth is the **Soldier**, aggressive, seeking honor, and quick to fight. The fifth is the **Justice** (judge), mature, prosperous, and full of wise sayings. The sixth stage shows the elderly **Pantaloon**, thin, wearing spectacles, with a shrinking voice. The final stage is **Second Childishness**, characterized by complete memory loss and the absence of teeth, eyes, taste, and everything—ending in death.

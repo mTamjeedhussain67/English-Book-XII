@@ -73,11 +73,11 @@ const units = [
 
 
 const stats = [
-  { emoji: '📚', number: '9', label: 'Study Units' },
+  { number: '9', label: 'Study Units' },
 
-  { emoji: '🧪', number: '100', label: 'MCQs Included' },
-  { emoji: '✍️', number: 'Sami Ul Huda', label: 'Prepared By' },
-  { emoji: '🏢', number: 'Zee Collegiate', label: 'Coaching' },
+  { number: '100', label: 'MCQs Included' },
+  { number: 'Sami Ul Huda', label: 'Prepared By' },
+  { number: 'Zee Collegiate', label: 'Coaching' },
 ];
 
 // ─── Hero Section ─────────────────────────────────────────────
@@ -86,14 +86,14 @@ function HeroSection() {
     <header className={styles.heroBanner}>
       <div className={styles.heroInner}>
         <div className={styles.heroEyebrow}>
-          📖 Class XII · English Notes
+           Class XII · English Notes
         </div>
         <Heading as="h1" className={styles.heroTitle}>
           English Notes<br />
           <span>For Class XII</span>
         </Heading>
         <div className={styles.authorBadge}>
-          <span>✍️ Prepared by: Sami Ul Huda</span>
+          <span> Prepared by: Sami Ul Huda</span>
           <span>Coaching: Zee Collegiate</span>
         </div>
         <p className={styles.heroSubtitle}>
@@ -128,7 +128,6 @@ function StatsBar() {
       <div className={styles.statsInner}>
         {stats.map((s) => (
           <div key={s.label} className={styles.statItem}>
-            <span className={styles.statEmoji}>{s.emoji}</span>
             <span className={styles.statText}>
               <span className={styles.statNumber}>{s.number}</span>
               <span className={styles.statLabel}>{s.label}</span>

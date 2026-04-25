@@ -115,7 +115,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2026 English Notes For Class XII. Prepared by: Sami Ul Huda. Coaching: Zee Collegiate."
+      "copyright": "Copyright  2026 English Notes For Class XII. Prepared by: Sami Ul Huda. Coaching: Zee Collegiate."
     },
     "prism": {
       "theme": {

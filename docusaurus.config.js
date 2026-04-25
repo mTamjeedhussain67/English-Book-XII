@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} English Notes For Class XII. Prepared by: Sami Ul Huda. Coaching: Zee Collegiate.`,
+        copyright: `Copyright  ${new Date().getFullYear()} English Notes For Class XII. Prepared by: Sami Ul Huda. Coaching: Zee Collegiate.`,
       },
       prism: {
         theme: prismThemes.github,
